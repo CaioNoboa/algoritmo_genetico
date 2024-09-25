@@ -11,11 +11,11 @@ Caso haja em alguma geração um indivíduo que tenha características de intere
 ## Inicialização
 Uma possível maneira de inicializar o código:
 No prompt de comando, na pasta que contém o arquivo driver.cpp rode:
-    g++ driver.cpp -o algoritmoGenetico.exe
-    ./algoritmoGenetico.exe
+- `g++ driver.cpp -o algoritmoGenetico.exe`
+- `./algoritmoGenetico.exe`
 
 ## Observações sobre o código
-A seguinte equação é utilizada para avaliar os individuos gerados: a*x^5 + b*x^4 + c*x^3 + d*x^2 + e*x + f. O resultado da equação será utilizado para ordenar e selecionar indivíduos;
+A seguinte equação é utilizada para avaliar os individuos gerados: `a*x^5 + b*x^4 + c*x^3 + d*x^2 + e*x + f`. O resultado da equação será utilizado para ordenar e selecionar indivíduos;
 
 O presente código foi construído a partir de vetores estáticos;
 
