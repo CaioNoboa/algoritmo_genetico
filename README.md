@@ -1,6 +1,6 @@
 # Algoritmo Genético desenvolvido para a disciplina de Técnicas de Programação II do Centro Universitário Barão de Mauá
 
-Alunos responsaveis pelo atual código:
+Aluno responsável pelo atual código:
 - Caio Salvador Noboa - 2201926
 
 ## Introdução
